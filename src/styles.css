@@ -1,0 +1,28 @@
+.App {
+  font-family: sans-serif;
+  text-align: center;
+  border: solid;
+  border-radius: 10px;
+  height: 400px;
+  width: 300px;
+}
+.timer {
+  border: solid;
+  width: 300px;
+  height: 500px;
+  border-radius: 20px;
+}
+.btn {
+  display: flex;
+  justify-content: space-around;
+}
+button {
+  border: solid;
+  width: 100px;
+  height: 40px;
+  border-radius: 10px;
+  background-color: white;
+}
+button:hover {
+  border: solid #00ffff;
+}
